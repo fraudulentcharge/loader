@@ -1,0 +1,11 @@
+local Games = {
+    [89469502395769] = "loadstring(game:HttpGet("https://raw.githubusercontent.com/fraudulentcharge/virs-scripts/refs/heads/main/Kick%20a%20Lucky%20Block"))()",
+}
+
+local ScriptURL = Games[game.PlaceId]
+
+if ScriptURL then
+    loadstring(game:HttpGet(ScriptURL))()
+else
+    warn("Game not supported.")
+end
