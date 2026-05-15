@@ -2,6 +2,7 @@ local Games = {
     [89469502395769] = "loadstring(game:HttpGet("https://raw.githubusercontent.com/fraudulentcharge/virs-scripts/refs/heads/main/Kick%20a%20Lucky%20Block"))()",
     [92416421522960] = "https://raw.githubusercontent.com/fraudulentcharge/virs-scripts/refs/heads/main/slime%20rng"))()",
     [136955914362530] = "https://raw.githubusercontent.com/fraudulentcharge/virs-scripts/refs/heads/main/horse%20rng"))()",
+    [16146832113] = "https://raw.githubusercontent.com/fraudulentcharge/virs-scripts/e685d70be5e2400c48b66a30e19cbfd06f09d59e/av%20guiltar%20autoplay"))()",
 
 
 }
